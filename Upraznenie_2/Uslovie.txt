@@ -1,1 +1,1 @@
-
+In this folder is the main .cs files from the main project "Welcome" with the changes from the Upraznenie 2.
