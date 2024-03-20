@@ -1,0 +1,17 @@
+3/20/2024 12:16:29 PM [Information] - Information message => 3 exercise
+3/20/2024 12:16:29 PM [Warning] - Warning message => 3 exercise
+3/20/2024 12:16:29 PM [Error] - Error message => 3 exercise
+3/20/2024 12:19:54 PM [Information] - Information message => 3 exercise
+3/20/2024 12:19:54 PM [Warning] - Warning message => 3 exercise
+3/20/2024 12:19:54 PM [Error] - Error message => 3 exercise
+3/20/2024 12:27:40 PM [Information] - Information message => 3 exercise
+3/20/2024 12:27:40 PM [Warning] - Warning message => 3 exercise
+3/20/2024 12:27:40 PM [Error] - Error message => 3 exercise
+3/20/2024 12:30:46 PM [Information] - Information message => 3 exercise
+3/20/2024 12:30:46 PM [Warning] - Warning message => 3 exercise
+3/20/2024 12:30:46 PM [Error] - Error message => 3 exercise
+3/20/2024 12:32:41 PM [Information] - Successful login: Name: student, Role: STUDENT, Faculty Number: , Email: 
+3/20/2024 3:14:27 PM [Information] - Successful login: Name: student, Role: STUDENT, Faculty Number: , Email: 
+3/20/2024 6:16:04 PM [Information] - Successful login: Name: student, Role: STUDENT, Faculty Number: , Email: 
+3/20/2024 6:24:40 PM [Information] - Successful login: Name: student, Role: STUDENT, Faculty Number: , Email: 
+3/20/2024 6:25:26 PM [Information] - Successful login: Name: admin, Role: ADMIN, Faculty Number: , Email: 
