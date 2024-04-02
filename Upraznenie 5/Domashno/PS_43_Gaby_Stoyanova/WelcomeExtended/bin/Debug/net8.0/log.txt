@@ -1,0 +1,15 @@
+[3/19/2024 6:09:09 PM] [Information] Information message
+[3/19/2024 6:09:09 PM] [Warning] Warning message
+[3/19/2024 6:09:09 PM] [Error] Error message
+[3/19/2024 6:10:31 PM] [Information] Information message
+[3/19/2024 6:10:31 PM] [Warning] Warning message
+[3/19/2024 6:10:31 PM] [Error] Error message
+[3/19/2024 6:12:12 PM] [Information] Information message => Task 4
+[3/19/2024 6:12:12 PM] [Warning] Warning message => Task 4
+[3/19/2024 6:12:12 PM] [Error] Error message => Task 4
+[3/20/2024 11:40:03 AM] [Information] Information message => Task 4
+[3/20/2024 11:40:03 AM] [Warning] Warning message => Task 4
+[3/20/2024 11:40:03 AM] [Error] Error message => Task 4
+[3/20/2024 11:42:16 AM] [Information] Information message => Task 4
+[3/20/2024 11:42:16 AM] [Warning] Warning message => Task 4
+[3/20/2024 11:42:16 AM] [Error] Error message => Task 4
